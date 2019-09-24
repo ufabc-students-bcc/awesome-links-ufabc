@@ -1,6 +1,6 @@
 # Awesome links ufabc
 
-Reppositório destinado para centralizar informações relacionadas com o Bacharel
+Repositório destinado para centralizar informações relacionadas com o Bacharel
 em Ciências da Computação da Universidade federal do ABC 
 
 
