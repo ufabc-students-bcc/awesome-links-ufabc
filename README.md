@@ -1,5 +1,6 @@
 # Awesome Links UFABC
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub forks](https://img.shields.io/github/forks/ufabc-students-bcc/awesome-links-ufabc)](https://github.com/ufabc-students-bcc/awesome-links-ufabc/network/)
 [![GitHub stars](	https://img.shields.io/github/stars/ufabc-students-bcc/awesome-links-ufabc)](https://github.com/ufabc-students-bcc/awesome-links-ufabc/stargazers/)
 
